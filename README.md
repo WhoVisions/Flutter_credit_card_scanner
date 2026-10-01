@@ -152,3 +152,16 @@ class _MyAppCreditCardScannerState extends State<MyAppCreditCardScanner> {
 
 **Conclusion:**
 Elevate your app's user experience with seamless credit card scanning! 🚀💳✨
+
+<!-- nougen:fleet-role:begin (generated from NouGenRelay fleet/manifest.json; edit the manifest, not this block) -->
+## Fleet role
+
+| | |
+|---|---|
+| Role | A Flutter package that utilizes the device camera to scan and extract credit card information, providing a seamless and efficient way to capture card details in mobile applications. |
+| Kind | genesis_domain |
+| Status | canonical |
+| Canonical for | flutter_credit_card_scanner |
+| Visibility | public |
+
+<!-- nougen:fleet-role:end -->
